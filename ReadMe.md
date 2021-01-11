@@ -27,3 +27,9 @@ GET 메소드는 데이터를 이름과 값의 형식으로 URL을 통해 전송
 ### POST 메소드
 
 POST 메소드는 데이터를 URL이 아닌 Body에 담아 전송한다. 데이터를 수정 할 때 사용한다. POST로 요청을 보낼 때는 요청 헤더에 Content-Type 에 요청 데이터의 타입을 표시해야 한다.
+
+<hr />
+
+![post get_method](https://user-images.githubusercontent.com/66318653/104191123-6f8c6e80-5460-11eb-9697-f0753315647a.png)
+
+출처 https://en.wikipedia.org/wiki/Post/Redirect/Get
